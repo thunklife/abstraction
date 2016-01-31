@@ -1,0 +1,33 @@
+A Lever For The Mind - Tom Stuart
+http://codon.com/a-lever-for-the-mind
+
+Abstraction is our way of handling the complexity of the universe.
+
+take numbers for example
+numbers are an abstraction over collections. We remove the irrelevant
+parts (color, shape, size). from the notion of a number we can derive
+the notion of a successor. from a successor, we can derive comparisons,
+and addition. These abstractions seem natural to us now, but that wasn't
+always the case. We developed in order to predict outcomes in the real world.
+You don't need to physically add things together, we can use the abstract
+notions to know what would happen if we did.
+
+Good abstractions allow us to derive additional operations
+
+Abstractions are patterns that we can use even if we don't know why it works.
+
+Refactoring Ruby With Monads - Tom Stuart
+http://codon.com/refactoring-ruby-with-monads
+
+Abstract Data Types
+Stack, Collection
+Also Monoids, Functors, Monads, etc.
+standard operations and some rules about how they/it works
+common interface to standard problems (monads for sequencing operations)
+again, these abstractions allow us to derive operations in terms of the
+interface
+
+-----
+Premature abstraction: implementing an abstraction when not warranted.
+Of course, the idea of abstraction is either capture a pattern, or hide
+unnecessary complexity from the user.
